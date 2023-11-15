@@ -7,3 +7,5 @@ Release
 *.vcxproj.user
 xcuserdata
 
+.vscode
+venv
